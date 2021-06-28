@@ -1,0 +1,5 @@
+a= input()
+b= input()
+c= input()
+list1=[a,b,c]
+print(*list1)
